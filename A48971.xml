@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentation of a sinner, or, Bradshaw's horrid farewel, together with his last vvil and testament</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48971</idno><idno type="EEBO-CITATION">13088682</idno>
+  <idno type="VID">97332</idno>
+  <idno type="EEBO-PROQUEST">2240849379</idno>
+  
+            <idno type="STC">Wing L284B</idno>
+            <idno type="STC">ESTC R6276</idno>
+            <idno type="OCLC">13088682</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentation of a sinner, or, Bradshaw's horrid farewel, together with his last vvil and testament</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bradshaw, John, 1602-1659.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97332:1"/>
+            <p>The LAMENTATION OF A SINNER, OR Bradshaw's horrid Farewel, Together with his last VVILL AND TESTAMENT.</p>
+            <q>Dedit Deus huic quoque finem (utinam funem.)</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97332:2"/>
+            <pb n="1" facs="tcp:97332:2"/>
+            <head>
+               <hi>The Lamentation</hi> Of A SINNER.</head>
+            <p>TIs not unknown to any, that death must be ac<g ref="char:EOLhyphen"/>quainted with all men, with some sooner, with others later; some he leads gently out of the World, others he violently drags along: and this he doth, not that he loves or affects this man, more than that; for Kings, and Pesants, Devils incarnat, and Pro<g ref="char:EOLhyphen"/>tectors, Presidents, Generals, Speakers, with such like (last named) Rake-hels, are all alike to him; he must and will execute his Office, and leaves the event thereof to Almighty God, of whose mercifulnesse and goodnesse, we have here before us an evident sign and token in this our <hi>Bradshaw</hi> (whose name without any farther Cha<g ref="char:EOLhyphen"/>racter, fully bespeaks him what he is) I say in depriving him of life (though by a Hell-resembling tormenting death) by which he is freed from a most shameful and wretched end; Dye he must, Death is not to be bribed, all his ill gotten mony (besprinkled with the tears of Orphans and Widows, and dyed red in human blood)
+<pb n="2" facs="tcp:97332:3"/>could not tempt Death, to stay one minute longer; Phy<g ref="char:EOLhyphen"/>sicians were not wanting that might allure his Soul, with pleasing Julips and Cordials, to still remain a Tenant to his body; but would needs remove its lodging, and tra<g ref="char:EOLhyphen"/>vel (and as some think) to the Stygian lake, there to find out the Ghost of its dearly beloved Patron <hi>Oliver.</hi> Precious Cordials proved to him the worst of Corrosives. When I looked over but the Catalogue of those Receipts that were administred him, and all proving in effectual, I was ready to have blamed Physicians Art, had I not look'd up to a higher (avenging) power; amongst a ma<g ref="char:EOLhyphen"/>ny which I found, I cannot but leave to the World for the good of posterity this one receipt, which he took in 1648. <hi>Oliver</hi> then being his Doctor,</p>
+            <p>There was by a Glisterpipe infected into him half a pint of Diabolical, Machayllian Counsel, 'twas after this thought fitting, that a strong Composition of Atheism, Impudence and Hipocrisie should be given him, to purge out his Conscience, least it might any wayes offend or trouble him; after this he took an Electuary, and dyet<g ref="char:EOLhyphen"/>drink to Consume within him, those small seeds of vir<g ref="char:EOLhyphen"/>tue Nature had sown in him, which he was to drink every day, lest it should predominate over his vice. Now to confirm the cure, there was administred him, one Firkin of <hi>Aurum Potabile,</hi> mingled with two run<g ref="char:EOLhyphen"/>lets of Widows tears; these two last ingredients so much inlivened and streng<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hned his body, as well as his purse, insomuch that he could walk in his Pontificalibus to <hi>Westminster,</hi> and there talk too (see more of that in the relation of the Kings tryal) Had he not after this (by a fa<g ref="char:EOLhyphen"/>tal mistake) drunk too much of royal blood, and thereby took a deep surset, he might (in all probability) have re<g ref="char:EOLhyphen"/>covered from the malady that then possest him. Though it did not dispatch him presently (to the astonishment of most) (as it did utterly extinguish <hi>Miltons</hi> eyes:) yet it lay like lingring poyson in his guts, that so inwardly fry<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:97332:3"/>him, that ere he was dead, he was ready roasted, and fit to be served up (the next dish to <hi>Oliver</hi>) unto the Devils Table. Well he is gone to the place from whence <hi>Libera nos Domine;</hi> And I cannot chuse, for that love I and my Country owe him, but pisse a tear upon his stinking memory. VVhat I say of him I am necessitated to do, otherwise I should be silent; Because where I cannot speak the least good of this dead man, I hold it in some part a duty not to speak all the evill I know of him. I need not Carachterise him whose life hath been so notorious. One act alone (in sentencing his King) had he otherwise been virtuous, was sufficient to have doo<g ref="char:EOLhyphen"/>med him vicious, and sent him (where now we suspect he is gone) to the place where is weeping, wayling and gnashing of teeth. And as if God intended to terrifye all those that may be King-killers for the future, tormen<g ref="char:EOLhyphen"/>ted him here in such manner, as that his torments were little different from those he must suffer eternally here<g ref="char:EOLhyphen"/>after. Me thinks the dyn of his yellowings rings still in my Ears, and his last words have left so deep an impres<g ref="char:EOLhyphen"/>sion in my mind, as I cannot but ecchoe them to the VVorld.</p>
+            <p>Thus in a trance he exprest himself, as to an infernal spirit, he saw then attending on him, Hold thy soul-tor<g ref="char:EOLhyphen"/>menting Paw; give me one hours respite. Good Devil stay, for that good and acceptable service I have done thee; Give me but time to make my Will at least, and I shall promise thee not to advise my fellow Murderers, Dissemblers, national Deceivers, and thy obedient sub<g ref="char:EOLhyphen"/>jects. Let mony Bribe, since ambition hath damn'd thee: both which hath ruined me eternally, and will (without a miracle;) utterly undoe the Republican <hi>Pub<g ref="char:EOLhyphen"/>lican</hi> Grand-Army Officers. So, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et mee but speak, though in torture; my King-judging tongue being red-hot, and those irreverent and peremptory words I spoke to my Soveraign, being now hot glowing Coals, frying my En<g ref="char:EOLhyphen"/>tralls.
+<pb n="4" facs="tcp:97332:4"/>I that would hardly admit of any security for treasonably suspected (though innocent) persons, can<g ref="char:EOLhyphen"/>not now my self perswade Death or the Devil to accept of any mortal Bail, longer than I shall declare my last <hi>Will</hi> and <hi>Testament.</hi> My time being short, tis my de<g ref="char:EOLhyphen"/>sire, that St. <hi>Johns</hi> (whose name signifies more than ever his actions performed) be the Pen-man thereof. Imprimis to the Earth I bequeath my body, my soul to him that it belongs to. I do hereby constitute and ap<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>point <hi>Lambert</hi> and (his shooing-horn) <hi>Fleetwood</hi> to be my lawfull Executors of this my last Will. To my well-beloved friend <hi>Hazelrig</hi> I give 600 <hi>l.</hi> on condition he let not <hi>Old Nick</hi> have any of his <hi>New-Castle</hi> Coals to in<g ref="char:EOLhyphen"/>crease Hell fires, and my torments. I likewise give 400 <hi>l.</hi> and if it should not be thought enough, as much more, to buy the best sort of hemseed, and that it be sown in <hi>White hall</hi> Palace Yard, &amp;c. to the intent the Army Officers, and such like, may not want Hempen Chains to adorn their Necks withall. To <hi>Lambert</hi> I bequeath a hidden receipt how to make <hi>o</hi> Pill that never fails, being admininistred, to dissolv<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliaments, one grain whereof scattered among his Enemies shall make their swords drop out of their hands; <hi>Probatum est.</hi> I likewise give ten pounds for the erecting of two Poles, on which of each <hi>Vanes</hi> and <hi>Needhams</hi> Heads may be placed, for to demonstrate (truer than any Wethercock) which way the wind blows (the cours<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of State mat<g ref="char:EOLhyphen"/>ters)</p>
+            <p>To the preaching Officers I give 200 <hi>l.</hi> to buy tubbs to hold forth in, that the brethren may speedily be furnished with good Estates. Let 500 <hi>l.</hi> be laid out for the cure<g ref="char:EOLhyphen"/>ing of all those that Sir <hi>Harry Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tin</hi> (with his fellow Statists) hath wounded in Venerial Combats. It is my will likewise that Col. <hi>Benetts</hi> pension be augmented twice as much as he now possesseth, on condition he will preach for the future but three words in eight of truth, and but
+<pb n="5" facs="tcp:97332:4"/>one of sence to his fellow <hi>Simpletons</hi> his Auditors. To Sir <hi>James Harringtong</hi> 1000 <hi>l.</hi> to be expended in his fur<g ref="char:EOLhyphen"/>ther discovery of his new found Common-wealth <hi>Oceana;</hi> and that he send as many as he can of the mad-peopse of great <hi>Bedlam</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hither for the prevention here of future discord and confusion. To <hi>Desborow</hi> I give one hun<g ref="char:EOLhyphen"/>dred pound to buy an Herd of Swine and that they shall be fed in his own yard, before his Chamber window, to put him in mind of his <hi>Quondam</hi> Occupation, which may occasionally give him a Ca<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion that he bring not his hogs to a fair Market. My breach fails me, by reason of which I am not able to insist further, in the bestowing of my ill-gotten Estate, in such like pious uses. I therefore shall conclude with this, that is <hi>Lambert</hi> and <hi>Monk</hi> agree not, the last shall have my free consent that the sit next in the Chair of State; provided he can shew more Wit, and lesse Honesty, than the rest of his Competitors.</p>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:97332:5"/>
+            <head>AN EPITAPH ON Iohn Bradshaw.</head>
+            <lg>
+               <l>HEre underneath this heap of dirt lies dead,</l>
+               <l>One that bereav'd our <hi>Soveraign</hi> of his Head.</l>
+               <l>Here lies that Villain, that same cursed Slave,</l>
+               <l>Wh' intomb'd 3. Kingdoms in <hi>Charls Martyrs</hi> grave,</l>
+               <l>This towring Rascals downfall, who'l bemoan,</l>
+               <l>That dash'd his brains out 'gainst his <hi>Soveraigns</hi> Throne?</l>
+               <l>None parallels this Fiend, unless he be</l>
+               <l>The Devils abstract, Hells Epitomie,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
